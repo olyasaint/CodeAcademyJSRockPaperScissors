@@ -1,3 +1,0 @@
-CodeAcademyJSRockPaperScissors
-==============================
-Learning JS
